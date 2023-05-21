@@ -1,7 +1,2 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41f533d0-8493-4b19-aeb7-b83215cf5a74/Untitled.png)
-
-Start Coding
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36265553-6985-4448-8dfd-e7d4617e694e/Untitled.png)
-
-아래 console창을 클릭해서 이용했다.
+#자바스크립트 연습중입니다.<br>
+<br>https://www.notion.so/0a3fcd33c99d4d439d175a27a958a8d4?pvs=4<br>
